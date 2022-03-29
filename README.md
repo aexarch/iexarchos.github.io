@@ -1,6 +1,6 @@
 # [iexarchos.github.io](https://iexarchos.github.io)
 
-Development testing branch, published [here](https://aexarch.github.io/iexarchos.github.io/
+Development/testing branch, published **[here](https://aexarch.github.io/iexarchos.github.io/)**
 
 Academic portfolio site for and maintained by Ioannis Exarchos.
 
