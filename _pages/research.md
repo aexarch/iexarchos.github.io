@@ -114,4 +114,3 @@ We published a few papers on multi-agent pursuit evasion games. Using the differ
 
 The results were published in the Journal of Dynamic Games and Applications, the IEEE Conference on Decision and Control, as well as the AIAA SciTech Guidance, Navigation, and Control Conference.
 
-* * *
